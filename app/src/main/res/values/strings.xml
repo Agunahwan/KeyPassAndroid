@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KeyPass</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_master_password">Master Password</string>
+    <string name="text_nama">Nama</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+
+    <color name="textview_color">#ffffff</color>
+    <color name="menu_color">#0041fe</color>
+    <color name="button_color_dark">#ffffff</color>
+    <color name="action_bar">#5aa6f1</color>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_add_password">Add Password</string>
+    <string name="title_activity_detail_password">Detail Password</string>
+    <string name="title_activity_edit_password">Edit Password</string>
+    <string name="title_activity_menu_utama">Menu Utama</string>
+</resources>
